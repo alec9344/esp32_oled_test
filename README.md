@@ -1,5 +1,3 @@
-# Hello World Example
+# esp32_oled_test
 
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
+Run an OLED test routine using ssd1306 oled driver.
